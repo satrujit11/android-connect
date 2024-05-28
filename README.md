@@ -21,22 +21,6 @@ sudo apt-get install adb scrcpy yq
 
 ### Automatical installation
 
-#### Using curl
-
-1. Run the following command to automaticallly download and install the script:
-
-```bash
-curl -sL https://raw.githubusercontent.com/satrujit11/android-connect/main/setup.sh | sudo bash
-```
-
-2. Run the script using the following command:
-
-```bash
-android-connect
-```
-
-#### Using setup script
-
 1. Clone the repository using the following command:
 
 ```bash
