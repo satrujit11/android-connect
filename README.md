@@ -32,7 +32,7 @@ curl -sL https://raw.githubusercontent.com/satrujit11/android-connect/main/insta
 2. Run the script using the following command:
 
 ```bash
-    android-connect
+android-connect
 ```
 
 #### Using setup script
@@ -46,13 +46,13 @@ git clone https://github.com/satrujit11/android-connect.git
 2. Move to the cloned directory:
 
 ```bash
-    cd android-connect
+cd android-connect
 ```
 
 3. Run the script using the following command:
 
 ```bash
-    ./setup.sh
+./setup.sh
 ```
 
 ### Manual installation
@@ -78,7 +78,7 @@ sudo chmod +x /usr/local/bin/android_connect
 4. Run the script using the following command:
 
 ```bash
-    android_connect
+android_connect
 ```
 
 ## Usage
